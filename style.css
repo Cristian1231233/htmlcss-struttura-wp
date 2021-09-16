@@ -25,6 +25,7 @@ section{
     height: 500px;
     background-color: #E1D67A;
     margin: 20px 0;
+    
 }
 /* background */
 .background{
@@ -40,6 +41,7 @@ footer{
 .secondo, .terzo, .quarto{
     height: 600px;
 }
+
 .primo,.secondo, .terzo, .quarto{
     background-color: #ABCFE7;
 }
